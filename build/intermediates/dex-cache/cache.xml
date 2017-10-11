@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\mydemo\McoySnap-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\mydemo\McoySnap-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_4e038e6ef73331468dd8f888fc3a13ea54829043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mydemo\McoySnap-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\mydemo\McoySnap-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_efebc84ba6b32b9f5a2ea178b6a628b122157d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mydemo\McoySnap-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\mydemo\McoySnap-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_c18f10ab15d207bd1744b97527f77e63538d57d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mydemo\McoySnap-master\app\build\intermediates\exploded-aar\com.github.McoyJiang\mcoysnaplibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e751ebc62a2a0197392ae4fbf86cbf2f5b385aee">
+        <dex dex="D:\mydemo\McoySnap-master\app\build\intermediates\pre-dexed\debug\com.github.McoyJiang-mcoysnaplibrary-unspecified_782839ff394b8e5ab41cfb27b61d52b9fb0ecdc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mydemo\McoySnap-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\mydemo\McoySnap-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_e878fb17d0298c6c7dd801d30048399921de0c56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mydemo\McoySnap-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\mydemo\McoySnap-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_7a31121edcb7ccc2af7b8b2256eee4ede3ebf22d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android-sdk_r24.4.1-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\mydemo\McoySnap-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_330532cc999694f5ea09023e6287925425e67d86.jar" />
+    </item>
+
+</items>
